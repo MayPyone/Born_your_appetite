@@ -6,6 +6,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -37,9 +38,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Collection of phones**
-- **Different kind of phone brands**
-- **Dispalying detailed brands**
+- **Different kinds of cuisines**
+- **Detailed recipes**
+- **Navigating to detail**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://maypyone-math-magicians.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +136,7 @@ If you like this project, check my portfolio.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my learning partners who supported me well thoughout the project and
+I would like to thank my learning partners who supported me well throughout the project and
 the designer, Nelson Sakwa(https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
